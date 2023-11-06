@@ -1,4 +1,4 @@
-## Firebase + MeiliSearch Full Text Search in Express.js with Cloud Functions and Firestore Triggers
+## Firebase + MeiliSearch Full Text Search in Express.js with Cloud Functions and Firestore Triggers and a neat search interface in Next JS and React Native.
 
 ![Repository Banner](https://res.cloudinary.com/dncqpakzo/image/upload/v1698677744/si9lqrszqihl8kn23aqq.jpg)
 

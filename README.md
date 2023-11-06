@@ -4,6 +4,8 @@
 
 This repository provides an implementation of a full-text search system using [Firebase](https://firebase.google.com/) and [MeiliSearch](https://www.meilisearch.com/) backend, wrapped in [Express.js](https://expressjs.com/) cloud functions using Node.js.
 
+We will be making a full stack movie searching application in Express, Next JS and React Native.
+
 You can view the implementations via the following technologies
 
 - Backend Code
